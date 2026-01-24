@@ -10,3 +10,5 @@ Date - ProblemId - Problem Link
 22/01/2026 - Arrays & Hashing / Valid Anagram - https://neetcode.io/problems/is-anagram/question?list=neetcode150
 
 24/01/2026 - Arrays & Hashing / Two Sum - https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
+
+24/01/2026 - Arrays & Hashing / Group Anagrams - https://neetcode.io/problems/anagram-groups/question?list=neetcode150
