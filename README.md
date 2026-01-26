@@ -12,3 +12,7 @@ Date - ProblemId - Problem Link
 24/01/2026 - Arrays & Hashing / Two Sum - https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
 
 24/01/2026 - Arrays & Hashing / Group Anagrams - https://neetcode.io/problems/anagram-groups/question?list=neetcode150
+
+25/01/2026 - Placeholder
+
+26/01/2026 - Arrays & Hashing / Enconde and Decode Strings - https://neetcode.io/problems/string-encode-and-decode/question?list=blind75 
