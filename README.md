@@ -13,6 +13,6 @@ Date - ProblemId - Problem Link
 
 24/01/2026 - Arrays & Hashing / Group Anagrams - https://neetcode.io/problems/anagram-groups/question?list=neetcode150
 
-25/01/2026 - Placeholder
+25/01/2026 - Arrays & Hashing / Top K Frequent Elements - https://neetcode.io/problems/top-k-elements-in-list/question?list=blind75
 
 26/01/2026 - Arrays & Hashing / Enconde and Decode Strings - https://neetcode.io/problems/string-encode-and-decode/question?list=blind75 
