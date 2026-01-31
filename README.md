@@ -16,3 +16,5 @@ Date - ProblemId - Problem Link
 25/01/2026 - Arrays & Hashing / Top K Frequent Elements - https://neetcode.io/problems/top-k-elements-in-list/question?list=blind75
 
 26/01/2026 - Arrays & Hashing / Enconde and Decode Strings - https://neetcode.io/problems/string-encode-and-decode/question?list=blind75 
+
+31/01/2026 - Arrays & Hashing / Product of Array Except Self - https://neetcode.io/problems/products-of-array-discluding-self/question?list=blind75
